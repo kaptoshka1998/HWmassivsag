@@ -88,6 +88,5 @@ public class Main {
         char[] revName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
         reverseName(revName);
 
-
     }
 }
